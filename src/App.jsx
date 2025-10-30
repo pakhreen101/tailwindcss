@@ -74,7 +74,7 @@ function App() {
                     <p>React マーケティング業界に数年財務分析を行っていました、現在はIT業界でシステム　しながら　としてweb
                     サイトやwebAppを個人として受け主しています、また　やコンサルティングも　に行っており、ご相談されたい方はコンタクト
                     お待ちしております </p>
-                    <a href='#' className='mt-3 text-green-500 items-center'>もっと見る</a>
+                    <a href='https://landing-responsive-dwax.vercel.app' className='mt-3 text-green-500 items-center'>もっと見る</a>
                   </div>
                 </div>
               </div>
@@ -102,7 +102,7 @@ function App() {
                     <p>React マーケティング業界に数年財務分析を行っていました、現在はIT業界でシステム　しながら　としてweb
                     サイトやwebAppを個人として受け主しています、また　やコンサルティングも　に行っており、ご相談されたい方はコンタクト
                     お待ちしております </p>
-                    <a href='#' className='mt-3 text-green-500 items-center'>もっと見る</a>
+                    <a href='https://quiz-app-flax-alpha.vercel.app' className='mt-3 text-green-500 items-center'>もっと見る</a>
                   </div>
                 </div>
               </div>
@@ -130,7 +130,7 @@ function App() {
                     <p>React マーケティング業界に数年財務分析を行っていました、現在はIT業界でシステム　しながら　としてweb
                     サイトやwebAppを個人として受け主しています、また　やコンサルティングも　に行っており、ご相談されたい方はコンタクト
                     お待ちしております </p>
-                    <a href='#' className='mt-3 text-green-500 items-center'>もっと見る</a>
+                    <a href='https://musicsound-one.vercel.app' className='mt-3 text-green-500 items-center'>もっと見る</a>
                   </div>
                 </div>
               </div>
